@@ -6,6 +6,7 @@ key: Hello-World
 这是一篇测试文章，TEST，~~~test~~~ testing
 ![](https://github.com/Ashesltz/Ashesltz.github.io/tree/main/picture/1658483539482.png)
 
+![mt](http://pcingola.github.io/SnpEff/images/genBank_2.png)
 <h4>java test</h4>
 ```java
 public class HelloWorld {
