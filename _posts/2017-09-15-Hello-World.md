@@ -4,7 +4,8 @@ tags: default
 key: Hello-World
 ---
 这是一篇测试文章，TEST，~~~test~~~ testing
-![](https://Ashesltz.github.io/tree/main/picture/1658483539482.png)
+
+![asdas](https://Ashesltz.github.io/tree/main/picture/1658483539482.png)
 
 ![mt](http://pcingola.github.io/SnpEff/images/genBank_2.png)
 <h4>java test</h4>
